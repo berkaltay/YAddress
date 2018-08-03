@@ -4,7 +4,7 @@ Automation of YAddress Web API
 
 ## Getting Started
 
-User may check-in all the available to an IDE for testing purposes, also Maven usage is supported.
+User may check-in all the available source code to an IDE for testing purposes, also Maven usage is supported.
 
 ### Prerequisites
 
@@ -17,11 +17,11 @@ an IDE (IntelliJ is strongly suggested for auto-import of "jars")
 
 ### Installing
 
-JDK should be installed and JAVA_HOME should be configured properly.
+JDK should be installed, JAVA_HOME and MAVEN_HOME should be configured properly.
 
 ## Running the tests
 
-Just use IDE for running the test case with TestNG
+Use an IDE for running the test case with TestNG
 
 
 ### OR
@@ -46,5 +46,5 @@ mvn clean test -Pyaddress
 * Used MAVEN for build management
 * TestNG for test orchestration
 * REST-assured for API Automation
-* Test flow explained with comments in Classes(Code)
+* Test flow explained with comments in TestClass(in Code)
 
