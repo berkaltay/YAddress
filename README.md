@@ -40,11 +40,10 @@ mvn clean test -Pyaddress
 
 * **Berk Altay** - *Initial work*
 
-## Acknowledgments
-
+## Tech Stack
 * Written in JAVA
 * Used MAVEN for build management
 * TestNG for test orchestration
 * REST-assured for API Automation
-* Test flow explained with comments in TestClass(in Code)
+* Test flow explained with line comments in YAddressTestClass.java
 
